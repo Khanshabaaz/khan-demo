@@ -1,4 +1,5 @@
 # khan-demo
 first repo
 <br>
-Author: shabaaz (padam)
+<I>Author: shabaaz khan</I>
+
